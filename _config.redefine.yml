@@ -17,7 +17,7 @@ info:
   # Author name
   author: Missdrop
   # Site URL
-  url: https://www.missdrop.cn
+  url: https://missdrop.cn
 # BASIC INFORMATION <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
 
@@ -208,9 +208,9 @@ navbar:
     Home: 
       path: / 
       icon: fa-regular fa-house # can be empty
-    Minecraft: 
-      path: http://mc.missdrop.cn/
-      icon: fa-regular fa-link # can be empty
+    #Minecraft: 
+    #  path: https://mc.missdrop.cn/
+    #  icon: fa-regular fa-link # can be empty
     # Status: 
     #   path: https://status.ohevan.com/
     #   icon: fa-regular fa-chart-bar
@@ -402,9 +402,9 @@ footer:
   customize:
   # ICP record number. See https://beian.miit.gov.cn/
   icp:
-    enable: false # Whether to enable
-    number: '苏ICP备2025193823号'# ICP record number
-    url: 'https://beian.miit.gov.cn/'# ICP record url'
+    enable: true # Whether to enable
+    number: '苏ICP备2025193823号' # ICP record number
+    url: 'https://beian.miit.gov.cn/' # ICP record url
 # FOOTER <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
 
