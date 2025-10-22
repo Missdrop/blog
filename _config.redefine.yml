@@ -41,7 +41,7 @@ colors:
   # Secondary color (TBD)
   secondary:
   # Default theme mode initial value (will be overwritten by prefer-color-scheme)
-  default_mode: light # light, dark
+  default_mode: dark # light, dark
 # COLORS <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
 
@@ -244,12 +244,12 @@ home:
     announcement: # Announcement text
     show_on_mobile: true # Whether to show sidebar navigation on mobile sheet menu
     links:
-      # Archives: 
-      #   path: /archives 
-      #   icon: fa-regular fa-archive # can be empty
-      # Tags: 
-      #   path: /tags 
-      #   icon: fa-regular fa-tags # can be empty
+      Archives: 
+        path: /archives 
+        icon: fa-regular fa-archive # can be empty
+      Tags: 
+        path: /tags 
+        icon: fa-regular fa-tags # can be empty
       # Categories: 
       #   path: /categories 
       #   icon: fa-regular fa-folder # can be empty
