@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: "Missdrop's site"
-subtitle: "Talk is cheap. Show me the code"
-description: "Missdrop's site"
-keywords:
-author: Missdrop
+title: "Naipu's Blog"
+subtitle: ""
+description: "Naipu's Blog"
+keywords: Naipu's blog,Naipu,blog,programming,code,技术博客,编程,代码
+author: Naipu
 language: zh_cn
 timezone: ''
 

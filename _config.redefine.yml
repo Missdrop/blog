@@ -89,7 +89,7 @@ global:
   # Whether to enable Preloader.
   preloader:
     enable: true
-    custom_message: "Naipu's Blog Loading..."
+    custom_message: "Naipu is Sleeping..."
   # Side tools settings
   side_tools:
     # Whether to enable gear rotation animation for settings button

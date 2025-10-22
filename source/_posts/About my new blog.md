@@ -1,5 +1,5 @@
 ---
-title: 换了Hexo作为Blog后端
+title: 关于我的新Hexo博客
 ---
 
 ## 前言
