@@ -208,9 +208,9 @@ navbar:
     Home: 
       path: / 
       icon: fa-regular fa-house # can be empty
-    #Minecraft: 
-    #  path: https://mc.missdrop.cn/
-    #  icon: fa-regular fa-link # can be empty
+    About Me: 
+      path: https://missdrop.cn/
+      icon: fa-regular fa-link # can be empty
     # Status: 
     #   path: https://status.ohevan.com/
     #   icon: fa-regular fa-chart-bar
