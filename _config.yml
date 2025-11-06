@@ -6,9 +6,14 @@
 title: "Naipu's Blog"
 subtitle: ""
 description: "Naipu's Blog"
-keywords: Naipu's blog,Naipu,blog,programming,code,技术博客,编程,代码
+keywords: 
+  - Naipu's blog
+  - Naipu
+  - blog
+  - programming
+  - code
 author: Naipu
-language: zh_cn
+language: en
 timezone: ''
 
 # URL
